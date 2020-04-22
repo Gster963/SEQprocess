@@ -30,6 +30,3 @@ A wrapper function to run samtools (mpileup)
 Generate VCF, BCF or pileup for one or multiple BAM files. Alignment records are grouped by sample (SM) identifiers in @RG header 
          lines. If sample identifiers are absent, each input file is regarded as one sample.
 }
-#\seealso{
-#\url {http://www.htslib.org/doc/samtools.html}
-#}
