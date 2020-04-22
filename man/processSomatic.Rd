@@ -31,6 +31,3 @@ processSomatic will separate a somatic output file by somatic_status (Germline, 
 \references{
 VarScan 2: somatic mutation and copy number alteration discovery in cancer by exome sequencing.
 }
-\seealso{
-\url {http://varscan.sourceforge.net/}
-}
